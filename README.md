@@ -46,6 +46,14 @@
    height="40"
   />
  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+  <img
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+   alt="rust"
+   width="40"
+   height="40"
+  />
+ </a>
  <a href="https://dart.dev" target="_blank">
   <img
    src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
