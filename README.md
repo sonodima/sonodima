@@ -195,12 +195,3 @@
   />
  </a>
 </p>
-<br>
-<br>
-<p>
- <img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=sonodima&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact"
-  alt="sonodima"
- />
-</p>
