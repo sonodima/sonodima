@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="left">I am sonodima - a student at Ca' Foscari University.</h3>
 <br>
 <h3 align="left">Main Languages and Tools:</h3>
 <p align="left">
