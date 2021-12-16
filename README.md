@@ -1,11 +1,13 @@
-# Hi, I am Tom. 🖐🏼
+# Hi, I am Tom 🖐🏼
 
 It is nice to see you here!<br>
-I am currently studying information technology at Ca' Foscari University, in Venice.
+I am currently studying information science at Ca' Foscari University, in Venice.
 
 My main languages are `C++, C, C#, Go, TypeScript and Dart`, but I also have experience with `JavaScript, Java and Rust`.
 
+I enjoy building high-performance distributed applications and working with realtime technologies such as `WebRTC`.
 
-## Extra
+## Other 🎛
 
-My favourite hobby is music production, and I have been making music for over 8 years.
+* I've been producing music since I was 11 years old, and still it is my favourite hobby.
+* I only talk to people who follow [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html). 
