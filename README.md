@@ -3,7 +3,7 @@
 It is nice to see you here!<br>
 I am currently studying information science at Ca' Foscari University, in Venice.
 
-My main languages are `C++, C, C#, Go, TypeScript and Dart`, but I also have experience with `JavaScript, Java and Rust`.
+My main languages are `C++, C, C#, Rust, Go and TypeScript`, but I also have experience with `Dart, Java and JavaScript`.
 
 I enjoy building high-performance distributed applications and working with realtime technologies such as `WebRTC`.
 
