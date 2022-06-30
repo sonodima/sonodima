@@ -1,7 +1,7 @@
 # Hi, I am Tom 🖐🏼
 
 It is nice to see you here!<br>
-I am currently studying information science at Ca' Foscari University, in Venice.
+I am currently studying information science at Ca' Foscari University of Venice.
 
 My main languages are `C++, C#, Rust, Go and TypeScript`, but I also have experience with `C, Java, JavaScript and Dart`.
 
