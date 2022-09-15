@@ -5,7 +5,7 @@ I am currently studying information science at Ca' Foscari University of Venice.
 
 My main languages are `C++, C#, Rust, Go and TypeScript`, but I also have experience with `C, Java, JavaScript and Dart`.
 
-I enjoy building high-performance software and working with realtime media technologies such as `WebRTC`.
+I enjoy building high-performance software and working with realtime media technologies.
 
 ## Other 🎛
 
