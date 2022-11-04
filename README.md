@@ -12,3 +12,8 @@ I enjoy building high-performance software and working with realtime media techn
 ## Other 🎛
 
 * I've been producing music since I was 11 years old, and still it is my favourite hobby.
+
+
+---
+
+__Homebrew TAP: [`sonodima/sonodima`](https://github.com/sonodima/homebrew-sonodima)__
